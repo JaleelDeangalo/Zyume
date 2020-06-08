@@ -12,7 +12,7 @@ const Landing = ({ isAuthenticated }) => {
     <section className='landing'>
       <div className='dark-overlay'>
         <div className='landing-inner'>
-          <h1 className='x-large'>Art is good for the heart</h1>
+          <h1 className='x-large'>Art Is Good For The Heart</h1>
           <p className='lead'>
             Create a developer profile/portfolio, share posts and get help from
             other artists
