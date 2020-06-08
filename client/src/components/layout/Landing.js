@@ -15,7 +15,7 @@ const Landing = ({ isAuthenticated }) => {
           <h1 className='x-large'>Art Is Good For The Heart</h1>
           <p className='lead'>
             Create a developer profile/portfolio, share posts and get help from
-            other artists
+            other artists.
           </p>
           <div className='buttons'>
             <Link to='/register' className='btn btn-primary'>
